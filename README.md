@@ -57,9 +57,6 @@ Add screenshots of the following application areas to the `screenshots` folder, 
 - Power BI dashboard
 - Assignment email notification
 
-Example Markdown:
-
-`![BankOps Home Dashboard](screenshots/home-dashboard.png)`
 
 ## Project Scope and Limitations
 
