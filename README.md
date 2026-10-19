@@ -39,12 +39,6 @@ BankOps provides a centralized platform for request submission, assignment, stat
 
 *All requests and user records are simulated demonstration data, not real banking data.*
 
-## System Documentation
-
-The project documentation describes the system requirements, user roles, application workflow, features, testing, and screenshots.
-
-**Documentation:** Add your PDF link here or upload the document to this repository under `docs/BankOps-Documentation.pdf`.
-
 ## Screenshots
 
 Add screenshots of the following application areas to the `screenshots` folder, then display them here:
