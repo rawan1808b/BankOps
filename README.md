@@ -39,19 +39,6 @@ BankOps provides a centralized platform for request submission, assignment, stat
 
 *All requests and user records are simulated demonstration data, not real banking data.*
 
-## Screenshots
-
-Add screenshots of the following application areas to the `screenshots` folder, then display them here:
-
-- Login screen
-- Home dashboard
-- New request screen
-- My requests screen
-- Request details
-- Power BI dashboard
-- Assignment email notification
-
-
 ## Project Scope and Limitations
 
 BankOps is a portfolio demonstration built with Microsoft Power Platform. The data is simulated, and the application is not connected to a production banking environment. SQL and SharePoint are not part of the current implemented solution.
